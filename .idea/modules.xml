@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MagicEightBall.iml" filepath="$PROJECT_DIR$/MagicEightBall.iml" />
+      <module fileurl="file://F:\AndroidProjects\IamRich\magic-8-ball-android-Avinashs1995\MagicEightBall.iml" filepath="F:\AndroidProjects\IamRich\magic-8-ball-android-Avinashs1995\MagicEightBall.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\AndroidProjects\IamRich\magic-8-ball-android-Avinashs1995\app\app.iml" filepath="F:\AndroidProjects\IamRich\magic-8-ball-android-Avinashs1995\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/magic-8-ball-android-Avinashs1995.iml" filepath="$PROJECT_DIR$/magic-8-ball-android-Avinashs1995.iml" />
     </modules>
   </component>
 </project>
